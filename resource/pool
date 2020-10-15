@@ -1,0 +1,3 @@
+[
+"https://www.zillow.com/search/GetSearchPageState.htm?searchQueryState={"pagination":{},"usersSearchTerm":"Dallas, TX","mapBounds":{"west":-96.8073947391268,"east":-96.69598650548423,"south":32.72508970798755,"north":32.902686287873685},"regionSelection":[{"regionId":38128,"regionType":6}],"isMapVisible":true,"filterState":{"price":{"min":592291,"max":1778010},"monthlyPayment":{"min":2000,"max":6000},"beds":{"min":2},"isAllHomes":{"value":true},"isMultiFamily":{"value":false},"isManufactured":{"value":false},"isLotLand":{"value":false}},"isListVisible":true,"mapZoom":13}&wants={"cat1":["listResults","mapResults"]}&requestId=20"
+]
